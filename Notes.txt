@@ -1,0 +1,8 @@
+Impulse response model:
+	Ping in water is greatly attenuated. Compare to something like response of a lowpass filter to an impulse: decaying oscillation
+
+Built-in calibration (absolute length scale)
+
+Built-in cantilever stiffness measurement by using frequency, combining with the amplitude to get displacement, can get accurate results despite changes in cantilever properties (from thermal effects perhaps, or from defect motion during bending / strain hardening, or from erosion in water environment)
+
+LDV: heterodyning gets rid of any other influences like interference from reflected light off sample (not achievable with deflection), plus expected higher linearity than deflection
